@@ -1,3 +1,18 @@
+# Navegação no Jetpack Compose
+
+App desenvolvido para estudar:
+- Navegação entre Composables;
+- Gráficos de navegação e destinos;
+- Rotas de navegação com e sem "argumentos";
+- DeepLinks (links para uma rota específica que podem ser acessados por fora do app);
+- Outros conceitos de navegação.
+
+Link do Codelab: https://developer.android.com/codelabs/jetpack-compose-navigation#0
+
+‎ㅤ
+‎ㅤ
+
+*readme original:*
 # Navigation in Jetpack Compose Codelab
 
 This folder contains the source code for the
