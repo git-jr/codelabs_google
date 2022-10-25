@@ -1,3 +1,16 @@
+# ViewModel e estados no Compose
+
+App desenvolvido para revisar:
+- Arquitetura de apps Android
+- ViewModel e State Holder no Compose
+
+[Link do Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-viewmodel-and-state?hl=pt-br#0)
+
+
+‎ㅤ
+‎ㅤ
+
+*Readme original:*
 # Advanced State in Jetpack Compose Codelab
 
 This folder contains the source code for the
